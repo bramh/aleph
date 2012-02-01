@@ -1,0 +1,15 @@
+data/.hgignore.i
+data/bin/convert_xml2csv.i
+data/bin/templates/final.html.tt.i
+data/bin/templates/final.txt.tt.i
+data/bin/test_mail.pl.i
+data/bin/test_mail_plain.pl.i
+data/bin/test_mail_smtp.pl.i
+data/config/log4perl-reports-utils.conf.i
+data/config/utils.conf.i
+data/xslt/acq-16.xsl.i
+data/xslt/cash-03.xsl.i
+data/xslt/cash-05.xsl.i
+data/xslt/create_acq-16.i
+data/xslt/create_acq-16_02.i
+data/xslt/for-each.xsl.i
